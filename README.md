@@ -9,7 +9,7 @@ This GitHub repository contains following folders:
 
 * **ribopaint**: TIFF files and MATLAB scripts used to plot SHAPE reactivities on figures.
 
-* **python_scripts**: This folder is seperated into two folders. **Heatmap** folder contains .txt files that indicate SHAPE reactivities of mini-PTC construct and a python script used to generate a heatmap that summarizes SHAPE reactivity of mini-PTC constructs. **wt_distribution** folder contains .txt files that indicate differential SHAPE reactivity between experimental and predicted WT mini-PTC construct and a python script used to generate a distribution plot and identify extreme outliers according to 3 x IQR rule.
+* **python_scripts**: This folder is seperated into two folders. **Heatmap** folder contains .txt files that show experimental SHAPE reactivities of all mini-PTC constructs and predicted SHAPE reactivity of WT mini-PTC. In addition, a python script used to generate a heatmap that summarizes SHAPE reactivity of mini-PTC constructs is also included. **wt_distribution** folder contains .txt files that indicate differential SHAPE reactivity between experimental and predicted WT mini-PTC construct and a python script used to generate a distribution plot and identify extreme outliers according to 3 x IQR rule.
 
 * **saved_hitrace_workspace**: Saved processed data after analyzing SHAPE reactivity using data and scripts in the Hitrace folder. These includes data of WT mini-PTC, seven Eterna PTC designs, WT mini-PTC with A- and P-site analogs, mini-PTC 1.1 with A- and P-site analogs. 
 
